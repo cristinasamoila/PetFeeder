@@ -30,8 +30,8 @@ Lista de componente hardware:
 Descriere software:
 	Pentru realizarea proiectului, am folosit urmatoarele biblioteci:
 		1. IRremote
-		3. LiquidCrystal
-		4. Servo
+		2. LiquidCrystal
+		3. Servo
 	Functionalitatea implementata in codul sistemului se ramifica in 2 moduri de utilizare:
 		a. Modul Automat - tasta '1' (hranire periodica)
 			- in acest mod utilizatorul trebuie sa seteze o periodicitate cu care sistemul sa realizeze
